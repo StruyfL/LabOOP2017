@@ -13,5 +13,4 @@ int main(void)
 
 	cin.get();
 
-	return 0;
 }
